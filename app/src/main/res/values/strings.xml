@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">折腾</string>
+    <string name="about_title">关于「折腾」</string>
+    <string name="about_intro">一个关于开屏广告的玩笑。\n也是一次把“跳过”变成体力活的实验。</string>
+    <string name="about_rules">规则：先展开至 165° 以上，折入 100°–120°，再展开。一次动作中的最小角度决定结果；折过头再回来也算失败。</string>
+    <string name="about_shops">失败后随机展示X宝、X东或X夕夕的模拟开屏。虚构名称与图形仅用于讽刺表达，无品牌关联；不会启动、下载或购买任何东西。</string>
+    <string name="about_timer">120 秒到时自动进入首页。离开界面时暂停计时，旋转或折叠不会重置。可随时用系统返回退出。</string>
+    <string name="about_demo">当前为演示模式：设备未提供可用铰链读数，或你已选择演示。用滑杆模拟折叠。</string>
+    <string name="about_sensor">当前为真实铰链模式。不同机型的传感器精度和支持情况可能不同。</string>
+    <string name="switch_demo">收不到读数？切换演示模式</string>
+    <string name="got_it">知道了</string>
+    <string name="app_subtitle">开屏行为艺术</string>
+    <string name="ad_label">"  广告 · "</string>
+    <string name="help_symbol" translatable="false">?</string>
+    <string name="about_description">玩法与关于</string>
+    <string name="ad_eyebrow">折叠屏专享 / 开屏巨献</string>
+    <string name="ad_headline_first">大展身手，</string>
+    <string name="ad_headline_second">小折一下。</string>
+    <string name="ad_tagline">把选择权，交还给你……的铰链。</string>
+    <string name="illustration_caption">新 一 代 物 理 跳 过 技 术</string>
+    <string name="illustration_slogan">不动手指，动手机。</string>
+    <string name="external_arrow" translatable="false">↗</string>
+    <string name="benefit_label">本次专属权益</string>
+    <string name="benefit_title">提前进入本来就该进入的首页</string>
+    <string name="benefit_price" translatable="false">¥0</string>
+    <string name="sponsor_note">* 广告由「不想让你走」独家赞助</string>
+    <string name="status_waiting">等待铰链读数</string>
+    <string name="status_unfold_first">先展开设备，准备开始</string>
+    <string name="status_too_deep">折过头了…展开领取“恭喜！”</string>
+    <string name="status_in_range">角度刚刚好！现在展开</string>
+    <string name="status_unfold">展开至 165° 以上</string>
+    <string name="status_too_shallow">折叠不够，继续轻轻折叠</string>
+    <string name="status_ready">请开始你的表演</string>
+    <string name="challenge_title">想跳过？先折为敬。</string>
+    <string name="challenge_index" translatable="false">01 / 01</string>
+    <string name="hinge_angle_label">铰链角度</string>
+    <string name="sensor_mode_demo">○ 演示模式</string>
+    <string name="sensor_mode_live">● 实时感应</string>
+    <string name="angle_target">目标区间 100°–120°</string>
+    <string name="angle_closed">0° 合拢</string>
+    <string name="angle_flat">180° 展开</string>
+    <string name="step_one" translatable="false">1</string>
+    <string name="step_two" translatable="false">2</string>
+    <string name="step_fold_title">折到 100°–120°</string>
+    <string name="step_fold_body">先展开，再轻折；多一度少一度都不行。</string>
+    <string name="step_unfold_title">再展开，才算跳过</string>
+    <string name="step_unfold_body">展开至 165° 以上。折过头？恭喜！送你去购物。</string>
+    <string name="demo_title">模拟铰链</string>
+    <string name="demo_hint">拖动折叠 → 再拖回展开</string>
+    <string name="demo_slider_description">模拟铰链角度</string>
+    <string name="demo_note">未使用真实铰链传感器 · 此滑杆仅供演示</string>
+    <string name="challenge_footer">没有跳过按钮。只有生活的弯路。</string>
+    <string name="dial_description">铰链角度仪，绿色区域为100至120度</string>
+    <string name="logo_description">折腾标志：折叠的跳过箭头</string>
+    <string name="illustration_description">展开的双屏手机与跳过箭头</string>
+    <string name="simulated_splash_label">模拟开屏 · 非真实跳转</string>
+    <string name="redirect_eyebrow">意料之外 / 情理之中</string>
+    <string name="redirect_slow">折慢了，也是一种点击。</string>
+    <string name="redirect_deep">折多了，也是一种点击。</string>
+    <string name="redirect_shallow">折少了，也是一种点击。</string>
+    <string name="redirect_slow_details">超过 3 秒还没完成？\n恭喜，广告替你做了选择。</string>
+    <string name="redirect_voluntary">你没有点任何东西，但你“自愿”来了。</string>
+    <string name="return_ad">返回，继续和广告较劲  ↗</string>
+    <string name="redirect_footer">准备好，再和广告较量一次。</string>
+    <string name="home_folded_eyebrow">跳过成功 / 铰链立功</string>
+    <string name="home_waited_eyebrow">等待结束 / 耐心立功</string>
+    <string name="home_headline">恭喜。\n你终于打开了\n一个 App。</string>
+    <string name="home_tagline">这个首页，本来一秒就能到。</string>
+    <string name="stat_elapsed">耗时</string>
+    <string name="stat_attempts">折叠尝试</string>
+    <string name="stat_redirects">误入购物</string>
+    <string name="home_welcome">欢迎来到「折腾」</string>
+    <string name="home_body">我们没有商品。\n没有会员。也没有下一个广告。\n\n只有一个问题：\n打开一个 App，为什么要这么费劲？</string>
+    <string name="home_message">把“摇一摇”升级成“折一折”，\n荒诞就有了新的打开方式。</string>
+    <string name="restart_ad">再体验一次开屏  ↻</string>
+    <string name="home_about_link">这个玩笑是认真的 ↗</string>
+    <string name="home_signature">折腾 ZHETENG / 让开屏回到开屏</string>
+    <string name="shop_xbao">X宝</string>
+    <string name="shop_xdong">X东</string>
+    <string name="shop_xxixi">X夕夕</string>
+    <string name="tagline_xbao">淘到好物，也淘到了你。</string>
+    <string name="tagline_xdong">多快好省，多此一跳。</string>
+    <string name="tagline_xxixi">拼着拼着，就过来了。</string>
+    <string name="seconds_short">%1$ds</string>
+    <string name="angle_value">%1$d°</string>
+    <string name="angle_unknown" translatable="false">—°</string>
+    <string name="count_value">%1$d</string>
+    <string name="shop_opening">恭喜！正在为你打开%1$s…</string>
+    <string name="redirect_title">恭喜！\n已为你打开%1$s。</string>
+    <string name="redirect_angle_details">本次最小角度 %1$d°\n要求 100°–120°，3 秒内折入再展开。</string>
+    <string name="video_link_label">你折叠它干什么玩意儿呢？</string>
+    <string name="video_link_url" translatable="false">https://www.bilibili.com/video/BV1skY76VEym</string>
+    <plurals name="redirect_count">
+        <item quantity="other">↳ %1$d 次误入</item>
+    </plurals>
+</resources>

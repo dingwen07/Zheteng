@@ -33,3 +33,10 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Project-local files
+**/build/
+.DS_Store
+
+# R8 mapping outputs
+mapping.txt
